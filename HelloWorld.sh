@@ -1,3 +1,3 @@
 #!/bin/bash -x
 
-echo "HellO WorlD!"
+echo "Hello World"
